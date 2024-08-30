@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 
 LABEL org.opencontainers.image.source="https://github.com/sampletext32/mingw-w64-docker"
 LABEL org.opencontainers.image.title="mingw-w64-docker"
